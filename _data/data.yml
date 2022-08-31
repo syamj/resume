@@ -47,15 +47,26 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I would like to introduce myself as an accomplished RHCE certified IT professional with 7+ years of progressive experience and proven record of significant, successful contribution in software, hardware, configuring network peripherals and their troubleshooting.
-      In my Current position at Urolime Technologies as a Devops Engineer, I had the chance to work on Kubernetes on different cloud platforms like AWS, Azure and GCP as well as an on-premise setup.
+      I would like to introduce myself as an accomplished RHCE certified IT professional with 9+ years of progressive experience and proven record of significant, successful contribution in software, hardware, configuring network peripherals and their troubleshooting.
+      In my Current position at ANI Technologies(OLA) as a Production Engineer 3 Devops, I had the chance to work on different cloud platforms like AWS and Azure and to work on a very fast paced, innovation driven environment.
            
       
   
 
 experiences:
+    - role: Production Engineer 3 
+      time: June 2021 - Present
+      company: ANI technologies Pvt Ltd (OLA)
+      details: |
+          -	Hands on high available, high throuput, highly scalable environment.
+          - Implemented Newrelic to monitor the entire tech stack.
+          - Implemented AWS Cloudfront extensively to cache static objects and by thus reducing the load on system.
+          - Worked on implementation of Kong OpenSource API Gateway.
+          - Orchestrate applications using Kubernetes and Mesos Marathon.
+
+          
     - role: Devops Engineer
-      time: October 2019 - Present
+      time: October 2019 - May 2021
       company: Urolime technologies Pvt Ltd
       details: |
           -	Deployed several micro service architectured applications to Kubernetes cluster(AKS,GKE&GCP).
