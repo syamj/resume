@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: syaaam616@gmail.com
+    email: syamjprakash@proton.me
     phone: +91-8301830959
     website: #blog.webjeda.com #do not add http://
     linkedin: syam-j-prakash-54509959/
@@ -47,9 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I would like to introduce myself as an accomplished RHCE certified IT professional with 9+ years of progressive experience and proven record of significant, successful contribution in software, hardware, configuring network peripherals and their troubleshooting.
-      In my Current position at ANI Technologies(OLA) as a Production Engineer 3 Devops, I had the chance to work on different cloud platforms like AWS and Azure and to work on a very fast paced, innovation driven environment.
-           
+      Senior Systems/Platform/SRE engineer specializing in large-scale distributed systems, high-performance infrastructure, cloud-native platforms, and production reliability. Experienced in optimizing complex systems for latency, throughput, availability, and cost. Strong in Linux internals, networking, Kubernetes, system design, and debugging at scale. Skilled at building resilient, high-throughput architectures powering mission-critical workloads.           
       
   
 
@@ -58,11 +56,15 @@ experiences:
       time: June 2021 - Present
       company: ANI technologies Pvt Ltd (OLA)
       details: |
-          -	Hands on high available, high throuput, highly scalable environment.
-          - Implemented Newrelic to monitor the entire tech stack.
-          - Implemented AWS Cloudfront extensively to cache static objects and by thus reducing the load on system.
-          - Worked on implementation of Kong OpenSource API Gateway.
-          - Orchestrate applications using Kubernetes and Mesos Marathon.
+          - Architectural Leadership: Currently leading transformation of core service platform from Mesos/Marathon to Kubernetes, defining patterns for deployment, networking, runtime configuration, observability, and multi-environment topology.
+          - Multi-Cloud Infra Ownership: Responsible for cloud footprint across AWS, Azure, and Krutrim; directed cloud migration strategies.
+          - Platform Reliability: Drove SLO-first culture across engineering; introduced standard runbooks, unified alerting, and postmortem processes across teams.
+          - Networking & Traffic Engineering: Re-architected DNS layers with DNSMasq, Unbound, and caching tiers, reducing Route53 queries and improving intra-cluster latency.
+          - Distributed Cache Platform: Designed HA Redis clusters (100+ clusters) on Kubernetes with automated failover, monitoring, and seamless migrations.
+          - Cost Engineering: Reduced infra cost by 25%+ via architectural consolidation, compute rightsizing, Graviton adoption, refined autoscaling, and observability optimization.
+          - Security Ownership: Ensured PCI compliance; worked with auditors, implemented controls, audit readiness, and secure operational guidelines.
+          - Infrastructure Modernization: Led multiple POCs for replacing legacy stacks onto modern and efficient tooling to cater the increasing scale of infrastructure environments.
+          - High-Severity Incident Leadership: Led outage response, coordinated multi-team debugging, drove RCAs, and implemented systemic fixes.
 
           
     - role: Devops Engineer
