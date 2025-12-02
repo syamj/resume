@@ -127,19 +127,18 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Linux
-        level: 80%
-
-      - name: Kubernetes
-        level: 70%
-
-      - name: Networking knowledge
-        level: 75%
-
-      - name: AWS
-        level: 70%
-      - name: Azure
-        level: 50%
+      - name: Tools & Technologies
+        items:
+          - Linux (Ubuntu, CentOS, RHEL)
+          - Cloud (AWS, Azure, GCP)
+          - Containerization (Docker)
+          - Orchestration (Kubernetes, Helm, Rancher)
+          - CI/CD (Gitlab CI, Jenkins)
+          - Configuration Management (Ansible)
+          - Monitoring (Prometheus, Grafana, Alertmanager)
+          - Logging (ELK Stack, Loki)
+          - Scripting (Bash, Python)
+          - Version Control (Git, GitHub, GitLab)
 
   
 footer: >
